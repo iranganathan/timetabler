@@ -1,1 +1,3 @@
-# timetabler
+## TimeTabler
+
+Simple school timetable generator.
